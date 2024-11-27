@@ -14,34 +14,36 @@ _Useful tips when navigating through your repository._
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 1: Resolve duplicate issues
+## Finish
 
-_Welcome to the course :tada:_
+_Congratulations friend, you've completed this course! :tada:_
 
-GitHub has special capabilities to help reference other information on GitHub. For example, when you reference another issue or pull request by number, that number will be hyperlinked. At the same time, a cross-reference is created in the linked issue or pull request. This two-way reference helps people track the relationship of information across GitHub.
+<img src="https://octodex.github.com/images/collabocats.jpg" alt=celebrate width=300 align=right>
 
-![a screenshot of an issue linking to a PR, and a PR with a cross-reference to the issue](https://user-images.githubusercontent.com/6351798/172456846-2daec570-08b0-4ffa-a7cb-41acc50b836e.png)
+In this course, you've learned a lot about finding and sharing information. Within a GitHub repository, you can find history about what changes were made, and more importantly, _why_ changes were made.
 
-With collaboraration from multiple team members, sometimes issues can be duplicated. In the above example, the new issue `#8346` is a duplicate of a previous issue `#8249`. The cross-reference ability allows you to track these duplications and close issues when appropriate.
+### What's next?
 
-### Creating references
+You can enable GitHub Pages and see `docs/index.html` as a website!
 
-When you link to another issue, a reference within GitHub is automatically created. In fact, you don't even need to include the full link. If you were to type `#5` within a comment, that would turn into a link to issue or pull request number 5.
+1. Replace `USERNAME` with your GitHub username and `REPONAME` with your GitHub repository name in `docs/index.html`.
+1. Under your repository name at the upper right, click :gear: **Settings**.
+1. Then on the lower left, click **Pages**.
+1. In the **GitHub Pages** section, select `main` in the **Select branch** drop-down menu and `/docs` in the **Select folder** drop-down menu.
+1. Click the **Save** button.
+1. Wait about 30 seconds then refresh the page. When you see "Your site is published at ...," you can click on the link to see your published site.
 
-When you want to create a crosslink, start typing the title of an issue or pull request directly after you type the `#` symbol. GitHub will suggest issues or pull requests that will link to the right place. To learn even more, check out the [Autolinked References and URLs](https://docs.github.com/en/articles/autolinked-references-and-urls) article.
+Check out these resources to learn more or get involved:
 
-### :keyboard: Activity: Find and close the cross-linked issue
-
-1. Navigate to the issue #1 (Welcome)
-2. Type "Duplicate of #2" as a comment and close issue #1
-3. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
+- We'd love to hear what you thought of this course in our [discussion board](https://github.com/orgs/skills/discussions/categories/connect-the-dots).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
